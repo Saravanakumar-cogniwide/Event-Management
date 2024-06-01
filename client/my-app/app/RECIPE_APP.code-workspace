@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "RECIPE_APP",
+			"path": "../../../../RECIPE_APP"
+		},
+		{
+			"name": "client",
+			"path": "../../../client"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"minimap.background": "#00000000",
+			"scrollbar.shadow": "#00000000"
+		}
+	}
+}
