@@ -1,0 +1,39 @@
+I. Client:
+
+For frontend using next with the additional library of daisy UI and tailwind css
+
+Steps to run:
+
+1.Install the next js by using the command [ npx create-next-app@latest ] before that make sure your pc have node js dependency
+
+2.Add the folder to the vs code workspace
+
+3.Run the command [ npm i ]
+
+4.And setup the daisy UI library dependencies
+
+5.Using [ npm run dev ] command to run the frontend
+
+
+
+II. Server:
+
+Dependencies:
+
+1.Spring Web
+
+2.Spring Security
+
+3.Postgresql
+
+4.lombok
+
+5.Spring Data JPA 
+
+
+III. Database:
+
+Postgresql
+
+
+ 
